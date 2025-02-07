@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marinenivenky7
 - 👀 I’m interested in Politics
 - 🌱 I’m currently learning Devops with AWS
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Devops Projects
 - 📫 How to reach me (marinenivenkatesh0@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... (juttu vunte mudi vesukuntam , juttu Lekapothe em Cheyyalem)
